@@ -1,5 +1,5 @@
 ---
-title: "Adam Wild's Assignment Website.Rmd"
+title: "Adam Wild's Assignment Website"
 author: "Adam Wild"
 date: "9/30/2020"
 output: html_document
@@ -9,7 +9,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+
 # **Adam Wild**
+[Adam's Github Account](https://github.com/adwild)
 
-# Collaborator: Cassandra Wattenburger
+# Collaborator: **Cassandra Wattenburger**
+[Cassandra's Github Account](https://github.com/cwatt)
 
+
+![Photo of the Cornell University Uihlein Maple Research Center](C:\Users\adw94\Pictures\Uihlein Station.jpg)
