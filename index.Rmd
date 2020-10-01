@@ -1,0 +1,15 @@
+---
+title: "Adam Wild's Assignment Website.Rmd"
+author: "Adam Wild"
+date: "9/30/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# **Adam Wild**
+
+# Collaborator: Cassandra Wattenburger
+
